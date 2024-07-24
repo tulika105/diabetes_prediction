@@ -10,3 +10,5 @@ The methodology used in the project begins with data collection from Kaggle webs
   3) Seaborn
   4) Scikit-learn
   5) Matplotlib
+# Model Deployment Using Streamlit
+https://diabetesprediction-fqzmsmfvvuclzyjvygtsou.streamlit.app/
