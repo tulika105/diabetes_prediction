@@ -4,4 +4,4 @@ The methodology used in the project begins with data collection from Kaggle webs
 # Technologies used
 - Jupyter Notebook
 - Python
-- Python libraries and packages
+- Python libraries
