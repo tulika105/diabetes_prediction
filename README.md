@@ -5,3 +5,8 @@ The methodology used in the project begins with data collection from Kaggle webs
 - Jupyter Notebook
 - Python
 - Python libraries
+- 1) Pandas
+  2) Numpy
+  3) Seaborn
+  4) Scikit-learn
+  5) Matplotlib
