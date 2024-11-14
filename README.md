@@ -10,8 +10,10 @@ The dataset used in this project includes the following features:
 - Blood Glucose Level: Numeric
 - HbA1c Level: Numeric
 - Gender: Categorical
+- Heart Disease: Binary 
+- Hypertension: Binary
 - Smoking History: Categorical
-- The target variable is:
+  The target variable is:
 - Diabetes: Binary (Diabetic/Non-diabetic)
 # Data Preprocessing
 - Missing Values: Handled by filling with appropriate statistics (mean/median).
