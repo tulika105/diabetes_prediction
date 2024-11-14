@@ -13,8 +13,7 @@ The dataset used in this project includes the following features:
 - Heart Disease: Binary 
 - Hypertension: Binary
 - Smoking History: Categorical
-  The target variable is:
-- Diabetes: Binary (Diabetic/Non-diabetic)
+- The target variable is: Diabetes: Binary (Diabetic/Non-diabetic)
 # Data Preprocessing
 - Missing Values: Handled by filling with appropriate statistics (mean/median).
 - Encoding: Categorical features like Gender and Smoking History were encoded into numerical format.
