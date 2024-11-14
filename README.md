@@ -48,7 +48,7 @@ The XGBoost model provided the best results for predicting diabetes, with high a
 - Jupyter Notebook
 - Python
 - Python libraries
-- 1) Pandas
+  1) Pandas
   2) Numpy
   3) Seaborn
   4) Scikit-learn
