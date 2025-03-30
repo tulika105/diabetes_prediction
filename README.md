@@ -1,6 +1,9 @@
 # Diabetes_prediction
 # Project Overview
 This project focuses on building a predictive model for diagnosing diabetes using various machine-learning techniques. The dataset used contains patient information, including key health metrics. Based on these features, the objective is to identify whether a patient is diabetic or non-diabetic.
+
+![diagram](https://github.com/user-attachments/assets/d832a203-f6b4-4f7c-ae60-e34970903948)
+
 # Introduction
 Diabetes is a chronic health condition where the body cannot regulate blood sugar levels effectively. Early detection of diabetes is crucial to prevent complications. This project employs machine learning models to predict diabetes based on patient health data.
 # Dataset
